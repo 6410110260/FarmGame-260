@@ -9,17 +9,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f7d8add945fdc7944ad6c9c591442d03, type: 3}
+  m_Script: {fileID: 11500000, guid: bd1bd093071bcb848a9dfa49667a7961, type: 3}
   m_Name: Corn
   m_EditorClassIdentifier: 
   plantName: Corn
   plantStages:
-  - {fileID: 529324188, guid: a2fcfae4bfd3e31479dee5e300bd9206, type: 3}
-  - {fileID: -1595821630, guid: a2fcfae4bfd3e31479dee5e300bd9206, type: 3}
-  - {fileID: 45426481, guid: a2fcfae4bfd3e31479dee5e300bd9206, type: 3}
-  - {fileID: -843421562, guid: a2fcfae4bfd3e31479dee5e300bd9206, type: 3}
-  timeBtwStages: 1
-  buyPrice: 10
-  sellPrice: 20
-  icon: {fileID: 15328486, guid: a2fcfae4bfd3e31479dee5e300bd9206, type: 3}
-  dryPlanted: {fileID: 0}
+  - {fileID: 751331944, guid: b5eb5234da02c2544a0e12be64c7daaa, type: 3}
+  - {fileID: -785571527, guid: b5eb5234da02c2544a0e12be64c7daaa, type: 3}
+  - {fileID: 1183210464, guid: b5eb5234da02c2544a0e12be64c7daaa, type: 3}
+  - {fileID: 542715092, guid: b5eb5234da02c2544a0e12be64c7daaa, type: 3}
+  timeBtwStages: 3
+  buyprice: 20
+  sellprice: 40
+  icon: {fileID: 0}

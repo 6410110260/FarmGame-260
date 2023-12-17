@@ -9,17 +9,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f7d8add945fdc7944ad6c9c591442d03, type: 3}
+  m_Script: {fileID: 11500000, guid: bd1bd093071bcb848a9dfa49667a7961, type: 3}
   m_Name: Sunflower
   m_EditorClassIdentifier: 
   plantName: Sunflower
   plantStages:
-  - {fileID: -1081251800, guid: a2fcfae4bfd3e31479dee5e300bd9206, type: 3}
-  - {fileID: -1803214932, guid: a2fcfae4bfd3e31479dee5e300bd9206, type: 3}
-  - {fileID: 924467136, guid: a2fcfae4bfd3e31479dee5e300bd9206, type: 3}
-  - {fileID: 1110129473, guid: a2fcfae4bfd3e31479dee5e300bd9206, type: 3}
-  timeBtwStages: 1
-  buyPrice: 20
-  sellPrice: 30
-  icon: {fileID: -1825374684, guid: a2fcfae4bfd3e31479dee5e300bd9206, type: 3}
-  dryPlanted: {fileID: 0}
+  - {fileID: 751331944, guid: b5eb5234da02c2544a0e12be64c7daaa, type: 3}
+  - {fileID: 1302988158, guid: b5eb5234da02c2544a0e12be64c7daaa, type: 3}
+  - {fileID: -1894517482, guid: b5eb5234da02c2544a0e12be64c7daaa, type: 3}
+  - {fileID: 1669562503, guid: b5eb5234da02c2544a0e12be64c7daaa, type: 3}
+  timeBtwStages: 3
+  buyprice: 10
+  sellprice: 20
+  icon: {fileID: 0}

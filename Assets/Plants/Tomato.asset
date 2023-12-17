@@ -9,17 +9,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f7d8add945fdc7944ad6c9c591442d03, type: 3}
+  m_Script: {fileID: 11500000, guid: bd1bd093071bcb848a9dfa49667a7961, type: 3}
   m_Name: Tomato
   m_EditorClassIdentifier: 
   plantName: Tomato
   plantStages:
-  - {fileID: -1538034843, guid: a2fcfae4bfd3e31479dee5e300bd9206, type: 3}
-  - {fileID: 221178433, guid: a2fcfae4bfd3e31479dee5e300bd9206, type: 3}
-  - {fileID: -1302315088, guid: a2fcfae4bfd3e31479dee5e300bd9206, type: 3}
-  - {fileID: 2745524, guid: a2fcfae4bfd3e31479dee5e300bd9206, type: 3}
-  timeBtwStages: 1
-  buyPrice: 30
-  sellPrice: 50
-  icon: {fileID: 1594724017, guid: a2fcfae4bfd3e31479dee5e300bd9206, type: 3}
-  dryPlanted: {fileID: 0}
+  - {fileID: -55421690, guid: b5eb5234da02c2544a0e12be64c7daaa, type: 3}
+  - {fileID: -1751550984, guid: b5eb5234da02c2544a0e12be64c7daaa, type: 3}
+  - {fileID: 1943351990, guid: b5eb5234da02c2544a0e12be64c7daaa, type: 3}
+  - {fileID: -1991591596, guid: b5eb5234da02c2544a0e12be64c7daaa, type: 3}
+  timeBtwStages: 3
+  buyprice: 30
+  sellprice: 60
+  icon: {fileID: 0}
