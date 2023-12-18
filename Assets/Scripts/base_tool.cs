@@ -45,6 +45,6 @@ public class NewBehaviourScript : MonoBehaviour
     private void OnMouseUp()
     {
         isBeing = false;
-        this.gameObject.transform.localPosition = new Vector3(-7, 4, 0);
+        this.gameObject.transform.localPosition = new Vector3(-7.86f, 4.88f, 0.00f);
     }
 }

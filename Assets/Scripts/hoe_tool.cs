@@ -45,6 +45,6 @@ public class hoe_tool : MonoBehaviour
     private void OnMouseUp()
     {
         isBeing = false;
-        this.gameObject.transform.localPosition = new Vector3(-7, 2, 0);
+        this.gameObject.transform.localPosition = new Vector3(-7.86f, 3.75f, 0.00f);
     }
 }

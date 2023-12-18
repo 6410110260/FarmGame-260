@@ -45,6 +45,6 @@ public class water_tool : MonoBehaviour
     private void OnMouseUp()
     {
         isBeing = false;
-        this.gameObject.transform.localPosition = new Vector3(7, 3, 0);
+        this.gameObject.transform.localPosition = new Vector3(-7.89f, 1.39f, 0);
     }
 }
