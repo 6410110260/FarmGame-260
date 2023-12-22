@@ -211,7 +211,7 @@ GameObject:
   - component: {fileID: 39592359}
   - component: {fileID: 39592358}
   m_Layer: 0
-  m_Name: Hoe
+  m_Name: Broom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -601,7 +601,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.7070707, y: 0.90909094}
+    oldSize: {x: 0.90909094, y: 0.90909094}
     newSize: {x: 1.37, y: 4.71}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -663,7 +663,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1156397220, guid: 8133636fed716b04ea4eebebeebac4b7, type: 3}
+  m_Sprite: {fileID: 1644182334, guid: 8133636fed716b04ea4eebebeebac4b7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -683,7 +683,7 @@ Transform:
   m_GameObject: {fileID: 99933529}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.89, y: 1.39, z: 0}
+  m_LocalPosition: {x: -7.84, y: 1.39, z: 0}
   m_LocalScale: {x: 1.1401384, y: 1.2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1882,7 +1882,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -239, y: 49}
+  m_AnchoredPosition: {x: -238.3, y: 49}
   m_SizeDelta: {x: 70.82, y: 28.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1008566221
@@ -1918,7 +1918,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Water
+  m_Text: Fertilizer
 --- !u!222 &1008566222
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3450,7 +3450,7 @@ GameObject:
   - component: {fileID: 1833304098}
   - component: {fileID: 1833304097}
   m_Layer: 0
-  m_Name: Sickle
+  m_Name: Harvest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
